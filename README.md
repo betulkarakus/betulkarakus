@@ -1,34 +1,44 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Örnek Örnek
-</p>
+# Hello, I'm Betul Karakus!
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
+## 🚀 About Me
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
+Hello! I'm Betul, a data scientist learner. There are many aspects of the data science world that interest me, and I'm always open to learning new things. On my GitHub profile, I share my projects and showcase my interest in various technologies.
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+- 💻 I'm currently busy taking courses in the data science field.
+- 🌱 I'm always open to learning new technologies and programming languages.
+- 📫 Feel free to reach out to me: karakusbetul20@gmail.com
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+## 🛠️ Technologies and Tools I Use
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+Here are some of the technologies and tools I frequently use.
 
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+- Programming Languages: Python
+- Web Technologies: HTML, CSS
+- Databases: MongoDB, MySQL, DBeaver, Studio 3T
+- Tools and Environments: VS Code, Jupyter Notebook, Google Colab, Atom
 
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+## 📈 GitHub Statistics
 
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=betulkarakus&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/betulkarakus)
+
+## 🤝 Open for Collaboration
+
+If you're interested in collaborating on a project or have any questions, feel free to reach out. I actively contribute to open-source projects and am always open to new projects.
+
+## 🗣️Languages
+
+- 🇺🇸 English (Professional Working Competence)
+- 🇰🇷 Korean (Limited Work Ability)
+- 🇹🇷 Turkish (Native)
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/betul-karakus-2601/
+- Email: karakusbetul20@gmail.com
+
+Thank you for visiting my profile! 😊
+
 </p>
