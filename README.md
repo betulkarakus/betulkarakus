@@ -18,7 +18,7 @@ Here are some of the technologies and tools I frequently use.
 - Programming Languages: Python
 - Web Technologies: HTML, CSS
 - Databases: MongoDB, MySQL, DBeaver, Studio 3T
-- Tools and Environments: VS Code, Jupyter Notebook, Google Colab, Atom
+- Tools and Environments: Tableau, VS Code, Jupyter Notebook, Google Colab, Atom
 
 ## 📈 GitHub Statistics
 
@@ -38,6 +38,7 @@ If you're interested in collaborating on a project or have any questions, feel f
 
 - LinkedIn: https://www.linkedin.com/in/betul-karakus-2601/
 - Email: karakusbetul20@gmail.com
+- Tableau: https://public.tableau.com/app/profile/betul.karakus/vizzes
 
 Thank you for visiting my profile! 😊
 
