@@ -37,8 +37,9 @@ If you're interested in collaborating on a project or have any questions, feel f
 ## 📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/betul-karakus-2601/
-- Email: karakusbetul20@gmail.com
 - Tableau: https://public.tableau.com/app/profile/betul.karakus/vizzes
+- Email: karakusbetul20@gmail.com
+
 
 Thank you for visiting my profile! 😊
 
