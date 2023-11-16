@@ -28,7 +28,7 @@ Here are some of the technologies and tools I frequently use.
 
 If you're interested in collaborating on a project or have any questions, feel free to reach out. I actively contribute to open-source projects and am always open to new projects.
 
-## 🗣️Languages
+## 🗣️ Languages
 
 - 🇺🇸 English (Professional Working Competence)
 - 🇰🇷 Korean (Limited Work Ability)
