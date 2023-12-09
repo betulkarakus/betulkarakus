@@ -17,7 +17,6 @@ Hello! I'm Betul, a data scientist learner. There are many aspects of the data s
 Here are some of the technologies and tools I frequently use.
 
 - Programming Languages: Python
-- Web Technologies: HTML, CSS
 - Databases: MongoDB, MySQL, DBeaver, Studio 3T
 - Tools and Environments: Tableau, VS Code, Jupyter Notebook, Google Colab, Atom
 
